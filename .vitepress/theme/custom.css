@@ -1,0 +1,41 @@
+.dark {
+  --vp-c-brand-1: #eee1c4;
+  --vp-c-brand-2: #eee1c4;
+  --vp-c-brand-3: #eee1c4;
+}
+
+.light {
+  --vp-c-brand-1: #4b3b23;
+  --vp-c-brand-2: #4b3b23;
+  --vp-c-brand-3: #4b3b23;
+}
+
+:root {
+  --vp-font-family-base: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial,
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC",
+    "Noto Sans", sans-serif;
+}
+
+.card-grid{
+  display:grid;
+  gap:16px;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  margin: 16px 0;
+}
+
+.card{
+  display:block;
+  padding:16px;
+  border:1px solid var(--vp-c-divider);
+  border-radius:14px;
+  background:var(--vp-c-bg-soft);
+  text-decoration:none;
+  color:inherit;
+}
+
+.card:hover{
+  border-color: var(--vp-c-divider);
+  box-shadow:yellow;
+  transform:none;
+}

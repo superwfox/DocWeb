@@ -6,7 +6,7 @@
     tagline: |
       ITEM RARITY IN OASIS SERVER
       物品并不是直接按照 Minecraft 的稀有度来划分的，而是根据物品的用途来划分
-    image: /assets/img/hero/minecraft.png
+    image: /assets/img/hero.jpg
     
   features:
     - title: COMMON | 普通

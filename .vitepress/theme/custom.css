@@ -39,3 +39,31 @@
   box-shadow:yellow;
   transform:none;
 }
+
+.vp-doc img[alt~="right"] {
+  float: right;
+  height: 1.9em;   /* 如果你想按标题字号走，就用 em */
+  width: auto;
+  margin: 0 0 0 12px;
+  display: inline-block;
+  vertical-align: middle;
+
+  padding:2px;
+  border-radius:6px;
+  background: rgba(255, 217, 120, 0.071);
+  box-shadow: 0 0 0 1px rgba(255, 224, 120, 0.945);
+}
+
+.vp-doc img[alt~="fat"] {
+  float: right;
+  height: 6em;   /* 如果你想按标题字号走，就用 em */
+  width: auto;
+  margin: 0 0 0 12px;
+  display: inline-block;
+  vertical-align: middle;
+
+  padding:6px;
+  border-radius:6.1px;
+  background: rgba(255, 217, 120, 0.071);
+  box-shadow: 0 0 0 1px rgba(255, 224, 120, 0.945);
+}

@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "OASIS DOC",
-  description: "这是OASIS服务器的文档站|DocWeb for OASIS Server",
+  title: "OASIS-Sudark",
+  description: "这是OASIS服务器文档站|DocWeb for OASIS Server",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    { icon: 'github', link: 'https://github.com/superwfox/DocWeb' }
     ]
   }
 })

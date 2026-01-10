@@ -26,7 +26,6 @@ export default defineConfig({
           },
           { text:"BOSS大型怪物介绍", link:"/mc-server-mds/boss"},
           { text:"实用功能介绍", link:"/mc-server-mds/functions"},
-          { text:"crafts", link:"/mc-server-mds/crafts"},
         ]}
       ],
       '/resume-mds/': [

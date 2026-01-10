@@ -1,7 +1,28 @@
+---
+layout: home
+
+hero:
+  name: 领地
+  text: 守护您的领域
+  tagline: 接入 QQ 哨兵时刻警惕 为您的安全保驾护航
+  image: sample.jpg
+  actions:
+    - theme: sponsor
+      text: 如何租赁
+      link: mc-server-mds/rentland/land-buy
+    - theme: alt
+      text: 回到大纲
+      link: mc-server-mds/crafts
+    - theme: alt
+      text: 了解功能
+      link: "#anchor"
+---
+
+
 # 领地相关 ![right](../image-6.png)
 
  &nbsp;服务器的领地接入了`QQ`，如果领地有他人踏足，您会收到`QQ`消息提醒，哨兵模式是默认开启的。 更有意思的是您可以通过该系统直接给游客权限，无需上线游戏，这很科幻对吗？ 但是的，我们做到了。
-
+{#anchor}
 ## 领地功能
 
 ### - 哨兵模式 

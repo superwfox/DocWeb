@@ -7,7 +7,10 @@
     tagline: |
      大型怪物相关知识
      BOSS不会在世界中自然生成 需要您用龙蛋召唤
-
+    actions:
+      - theme: alt
+        text: 回到大纲
+        link: mc-server-mds/crafts
   features:
      - title: 普通BOSS
        details: 掉落 普通命令方块 经验一般

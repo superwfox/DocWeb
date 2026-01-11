@@ -44,9 +44,3 @@ const features = [
 :::warning
   &nbsp;&nbsp;顺带一提，服务器支持离线玩家，但请不要使用`正版玩家的ID`，否则依旧无法加入，我们会根据您的登录IP来判断是否是您本人操作，而非使用传统的账密登录。
 :::
-
-<div style="margin-top: 32px; display:flex; justify-content:flex-end;">
-  <a class="VPButton medium brand" href="/mc-server-mds/crafts">
-    开始查看服务器功能介绍 →
-  </a>
-</div>

@@ -5,7 +5,7 @@ hero:
   name: 领地
   text: 守护您的领域
   tagline: 接入 QQ 哨兵时刻警惕 为您的安全保驾护航
-  image: sample.jpg
+  image: "sample.jpg"
   actions:
     - theme: sponsor
       text: 如何租赁

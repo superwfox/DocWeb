@@ -84,6 +84,9 @@
      details: 跳转到刚刚的大纲
      link: "/mc-server-mds/crafts"
 
+ actions:
+   
+
 
 
 ---

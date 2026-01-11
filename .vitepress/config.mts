@@ -17,7 +17,7 @@ export default defineConfig({
       '/mc-server-mds/': [
         { text: '服务器相关', items: [
           { text: '服务器相关信息总览', link: '/mc-server-mds/' },
-          { text:"原版增强功能介绍", link:"/mc-server-mds/crafts"},
+          { text:"大纲", link:"/mc-server-mds/crafts"},
           { text:"领地",items:[
             { text:"领地介绍", link:"/mc-server-mds/rentland/"},
             { text:"购置领地", link:"/mc-server-mds/rentland/land-buy"},
@@ -25,6 +25,7 @@ export default defineConfig({
           ]
           },
           { text:"BOSS大型怪物介绍", link:"/mc-server-mds/boss"},
+          { text:"天赋介绍", link:"/mc-server-mds/talent/"},
           { text:"实用功能介绍", link:"/mc-server-mds/functions"},
         ]}
       ],

@@ -15,6 +15,10 @@
     - title: "自研优先"
       details: "98%插件自己编写实现 针对各种特性灵活开发 不必拘泥于传统作者的想法"
       link: "https://github.com/superwfox"
+    - title: "功能大纲"
+      details: "了解服务器各种特色玩法 以及独家功能 快速成长为大佬"
+      link: "mc-server-mds/crafts"
+      linkText: "开始查看服务器功能介绍 →"
 
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;

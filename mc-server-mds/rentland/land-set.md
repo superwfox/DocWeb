@@ -3,7 +3,7 @@
  通过`地产证`修改领地信息、权限管理 | 丢了请找`管理`补办
  :::
   ---
-![alt text](landSetting.png.jpg)
+![alt text](/images/landSetting.png)
 ## 领地可以进行以上三种修改
 
 ### - 修改领地名称

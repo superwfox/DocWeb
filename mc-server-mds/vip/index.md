@@ -12,12 +12,12 @@
 
  features:
   - icon:
-     src: Minecoins.png
+     src: /images/Minecoins.png
      width: 60px
     title: 购买服务
     details: 通过这些方式来推动我们前进 
   - icon:
-     src: vip.png
+     src: /images/vip.png
      width: 70px
     title: 享受特权
     details: 成为贵宾享受这些功能

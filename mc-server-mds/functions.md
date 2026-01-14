@@ -12,21 +12,21 @@ hero:
 
 features:
   - icon:
-     src: farm.png
+     src: /images/farm.png
      width: 50px
      height: 50px
     title: 自动播种
     details: 自动种植作物 兼容大多数作物
     link: "#b1"
   - icon: 
-     src: Invicon_Dune_Armor_Trim.png
+     src: /images/Invicon_Dune_Armor_Trim.png
      width: 32px
      height: 32px
     title: 回溯
     details: 保存您在生存世界的位置进度
     link: "#b2"
   - icon: 
-     src: Desert_Small_House.png
+     src: /images/Desert_Small_House.png
     title: 建筑之杖
     details: 快速搭建虚影 无视方向打印
     link: "#b3"
@@ -35,49 +35,49 @@ features:
     details: 使用 Shift + F 快速启用
     link: "#b4"
   - icon: 
-     src: luckPotion.png
+     src: /images/luckPotion.png
      width: 38px
      height: 38px
     title: 飞行药水
     details: 获得永久飞行能力
     link: "#b5"
   - icon: 
-     src: box.png
+     src: /images/box.png
      width: 38px
      height: 38px
     title: 手持工具
     details: 快速启用工具
     link: "#b6"
   - icon: 
-     src: inf.png
+     src: /images/inf.png
      width: 38px
      height: 38px
     title: 查询你的信息
     details: 使用命令 /inf
     link: "#b7"
   - icon:
-     src: slime.png
+     src: /images/slime.png
      width: 38px
      height: 38px
     title: 检查史莱姆区块
     details: 使用命令 /isc
     link: "#b8"
   - icon:
-     src: baby.gif
+     src: /images/baby.gif
      width: 38px
      height: 38px
     title: 保持幼年状态
     details: 让他一直可爱下去吧！
     link: "#b9"
   - icon:
-     src: coral.png
+     src: /images/coral.png
      width: 38px
      height: 38px
     title: 珊瑚保活
     details: 珊瑚不会轻易失活
     link: "#b10"
   - icon:
-     src: recipe.png
+     src: /images/recipe.png
      width: 38px
      height: 38px
     title: 更多配方

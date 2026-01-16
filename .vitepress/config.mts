@@ -32,8 +32,8 @@ export default defineConfig({
       ],
       '/resume-mds/': [
         { text: '个人简历', items: [
-          { text: 'WebSocket', link: '/resume-mds/websocket' },
-          { text: 'Http', link: '/resume-mds/http' },
+          { text: 'WebSocket', link: '/resume-mds/projects/websocket' },
+          { text: 'Http', link: '/resume-mds/projects/http' },
         ]}
       ],
       '/titanfall-mds/': [

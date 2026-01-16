@@ -27,11 +27,13 @@ export default defineConfig({
           { text:"BOSS大型怪物介绍", link:"/mc-server-mds/boss"},
           { text:"天赋介绍", link:"/mc-server-mds/talent/"},
           { text:"实用功能介绍", link:"/mc-server-mds/functions"},
+          { text:"贵宾相关", link:"/mc-server-mds/vip"}
         ]}
       ],
       '/resume-mds/': [
         { text: '个人简历', items: [
-          { text: '首页', link: '/resume-mds/' },
+          { text: 'WebSocket', link: '/resume-mds/websocket' },
+          { text: 'Http', link: '/resume-mds/http' },
         ]}
       ],
       '/titanfall-mds/': [

@@ -18,7 +18,7 @@
   - icon: 📱
     title: 项目经验
     details: "个人博客,对接QQ,Gemini,DeepSeek,Minecraft相关开发"
-    link: "projects/websocket-related/"
+    link: "projects/websocket/"
     linkText: "查看详细学习历程"
 
 ---

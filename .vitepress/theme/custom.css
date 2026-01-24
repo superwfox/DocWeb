@@ -79,3 +79,7 @@
   align-items: center;
   justify-content: center;
 }
+
+.novel .vp-doc p {
+  text-indent: 2em !important;
+}

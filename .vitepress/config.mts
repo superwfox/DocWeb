@@ -40,7 +40,21 @@ export default defineConfig({
         { text: '泰坦陨落', items: [
           { text: '首页', link: '/titanfall-mds/' },
         ]}
-      ]
+      ],
+      'NanGuo-mds/': [
+        { text: '南国那些事', items: [
+          { text: '首页', link: '/NanGuo-mds/' },
+          { text: '正文', items:[
+            { text: '第一章 垓下之围', link: '/NanGuo-mds/pages/p1' },
+            { text: '第二章 世外桃源', link: '/NanGuo-mds/pages/p2' },
+            { text: '第三章 情窦初开', link: '/NanGuo-mds/pages/p3' },
+            { text: '第四章 新王登基', link: '/NanGuo-mds/pages/p4' },
+            { text: '第五章 困兽之斗', link: '/NanGuo-mds/pages/p5' },
+            { text: '第六章 乌合之众', link: '/NanGuo-mds/pages/p6' },
+            { text: '第七章 成也萧何，败也萧何', link: '/NanGuo-mds/pages/p7' },
+          ]},
+        ]}
+      ],
     },
 
     socialLinks: [

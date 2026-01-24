@@ -9,6 +9,9 @@ hero:
     - theme: sponsor
       text: 加入服务器
       link: /mc-server-mds/#加入服务器
+    - theme: alt
+      text: 南国那些事
+      link: /NanGuo-mds/
 
 features:
   - title: 服务器相关

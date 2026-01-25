@@ -17,7 +17,7 @@
     details: "完全由心情决定每章的长度 犹如莫言所说 故事向着深远跑去 作为作者我们也无能为力 故事都是自己长出来的"
   - title: 开始阅读
     details: "在字里行间漫步"
-    link: pages/p1
+    link: ./pages/p1
     linkText: "第一章"
 
  footer: |

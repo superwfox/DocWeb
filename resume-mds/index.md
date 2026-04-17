@@ -20,21 +20,6 @@
     details: "个人博客,对接QQ,Gemini,DeepSeek,Minecraft相关开发"
     link: "projects/websocket/"
     linkText: "查看详细学习历程"
-  - icon: ▸
-    title: LLM工作流
-    details: "多阶段编排 Planner→FileGen→reChecker，自动生成完整Minecraft插件项目"
-    link: "projects/llm-pipeline/"
-    linkText: "查看实现"
-  - icon: ⇄
-    title: SSE流式响应
-    details: "将DeepSeek逐token输出实时转发到浏览器，生成过程可视化"
-    link: "projects/sse/"
-    linkText: "查看实现"
-  - icon: ▣
-    title: Serverless
-    details: "Cloudflare Pages Functions + KV，无服务器后端跨请求持久化任务状态"
-    link: "projects/serverless/"
-    linkText: "查看实现"
 
 ---
 &nbsp;

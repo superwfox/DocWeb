@@ -34,6 +34,9 @@ export default defineConfig({
         { text: '个人简历', items: [
           { text: 'WebSocket', link: '/resume-mds/projects/websocket' },
           { text: 'Http', link: '/resume-mds/projects/http' },
+          { text: 'LLM工作流', link: '/resume-mds/projects/llm-pipeline' },
+          { text: 'SSE流式响应', link: '/resume-mds/projects/sse' },
+          { text: 'Serverless', link: '/resume-mds/projects/serverless' },
         ]}
       ],
       '/titanfall-mds/': [

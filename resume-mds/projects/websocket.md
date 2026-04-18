@@ -6,6 +6,7 @@
 
 - [Courier](https://github.com/superwfox/Courier) - 对接`LLOB-QQNT`，实现游戏与QQ群聊互通
 - [MornsixBot](https://github.com/superwfox/MornsixBot) - 基于Paper的群聊管理机器人，同样对接`LLOB-QQNT`
+- [minecraft-dev](https://github.com/superwfox/minecraft-dev)讯飞星火WS对接 - 鉴权参数随URL query下发，握手成功后双向推送对话token
 
 ## 实现历程
 

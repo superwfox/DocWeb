@@ -44,7 +44,7 @@ export default defineConfig({
           { text: '首页', link: '/titanfall-mds/' },
         ]}
       ],
-      'NanGuo-mds/': [
+      '/NanGuo-mds/': [
         { text: '南国那些事', items: [
           { text: '首页', link: '/NanGuo-mds/' },
           { text: '正文', items:[
@@ -55,6 +55,20 @@ export default defineConfig({
             { text: '第五章 困兽之斗', link: '/NanGuo-mds/pages/p5' },
             { text: '第六章 乌合之众', link: '/NanGuo-mds/pages/p6' },
             { text: '第七章 成也萧何，败也萧何', link: '/NanGuo-mds/pages/p7' },
+            { text: '第八章 伪王临朝', link: '/NanGuo-mds/pages/p8' },
+            { text: '第九章 孤军赴敌', link: '/NanGuo-mds/pages/p9' },
+            { text: '第十章 梦碎人亡', link: '/NanGuo-mds/pages/p10' },
+            { text: '第十一章 残宴自省', link: '/NanGuo-mds/pages/p11' },
+            { text: '第十二章 光影囚廊', link: '/NanGuo-mds/pages/p12' },
+            { text: '第十三章 怪物苏醒', link: '/NanGuo-mds/pages/p13' },
+            { text: '第十四章 茉莉晨光', link: '/NanGuo-mds/pages/p14' },
+            { text: '第十五章 一语失防', link: '/NanGuo-mds/pages/p15' },
+            { text: '第十六章 琥珀杀机', link: '/NanGuo-mds/pages/p16' },
+            { text: '第十七章 深夜温粥', link: '/NanGuo-mds/pages/p17' },
+            { text: '第十八章 囚车赴狱', link: '/NanGuo-mds/pages/p18' },
+            { text: '第十九章 提线木偶', link: '/NanGuo-mds/pages/p19' },
+            { text: '第二十章 疯狂造物', link: '/NanGuo-mds/pages/p20' },
+            { text: '第二十一章 腥红朝袍', link: '/NanGuo-mds/pages/p21' },
           ]},
         ]}
       ],

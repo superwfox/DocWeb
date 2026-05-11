@@ -69,6 +69,10 @@ export default defineConfig({
             { text: '第十九章 全盘皆输', link: '/NanGuo-mds/pages/p19' },
             { text: '第二十章 自以为是', link: '/NanGuo-mds/pages/p20' },
             { text: '第二十一章 鲜血饱腹', link: '/NanGuo-mds/pages/p21' },
+            { text: '第二十二章 温暖的陷阱', link: '/NanGuo-mds/pages/p22' },
+            { text: '第二十三章 雨过天晴', link: '/NanGuo-mds/pages/p23' },
+            { text: '第二十四章 情窦初开', link: '/NanGuo-mds/pages/p24' },
+            { text: '第二十五章 感时花溅泪', link: '/NanGuo-mds/pages/p25' },
           ]},
         ]}
       ],

@@ -73,6 +73,13 @@ export default defineConfig({
             { text: '第二十三章 雨过天晴', link: '/NanGuo-mds/pages/p23' },
             { text: '第二十四章 情窦初开', link: '/NanGuo-mds/pages/p24' },
             { text: '第二十五章 感时花溅泪', link: '/NanGuo-mds/pages/p25' },
+            { text: '第二十六章 黑云压城', link: '/NanGuo-mds/pages/p26' },
+            { text: '第二十七章 蓄势待发', link: '/NanGuo-mds/pages/p27' },
+            { text: '第二十八章 破军之师', link: '/NanGuo-mds/pages/p28' },
+            { text: '第二十九章 生死难料', link: '/NanGuo-mds/pages/p29' },
+            { text: '第三十章 游子身上衣', link: '/NanGuo-mds/pages/p30' },
+            { text: '第三十一章 花落故水', link: '/NanGuo-mds/pages/p31' },
+            { text: '第三十二章 ', link: '/NanGuo-mds/pages/p32' },
           ]},
         ]}
       ],

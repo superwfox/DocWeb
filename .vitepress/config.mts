@@ -80,6 +80,10 @@ export default defineConfig({
             { text: '第三十章 游子身上衣', link: '/NanGuo-mds/pages/p30' },
             { text: '第三十一章 花落故水', link: '/NanGuo-mds/pages/p31' },
             { text: '第三十二章 ', link: '/NanGuo-mds/pages/p32' },
+            { text: '第三十三章 ', link: '/NanGuo-mds/pages/p33' },
+            { text: '第三十四章 ', link: '/NanGuo-mds/pages/p34' },
+            { text: '第三十五章 ', link: '/NanGuo-mds/pages/p35' },
+            { text: '第三十六章 ', link: '/NanGuo-mds/pages/p36' },
           ]},
         ]}
       ],

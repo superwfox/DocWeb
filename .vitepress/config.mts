@@ -10,6 +10,7 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '服务器文档', link: '/mc-server-mds/' },
       { text: '个人简历', link: '/resume-mds/' },
+      { text: '实习成长', link: '/dailyReport/' },
       { text: '泰坦陨落', link: '/titanfall-mds/' }
     ],
 
@@ -38,6 +39,69 @@ export default defineConfig({
           { text: 'SSE流式响应', link: '/resume-mds/projects/sse' },
           { text: 'Serverless', link: '/resume-mds/projects/serverless' },
         ]}
+      ],
+      '/dailyReport/': [
+        { text: '实习成长记录', items: [
+          { text: '成长总览', link: '/dailyReport/' },
+        ]},
+        { text: '第 1 周 · 初入职场', collapsed: true, items: [
+          { text: '7 月 7 日', link: '/dailyReport/7.7' },
+          { text: '7 月 8 日', link: '/dailyReport/7.8' },
+          { text: '7 月 9 日', link: '/dailyReport/7.9' },
+          { text: '7 月 10 日', link: '/dailyReport/7.10' },
+        ]},
+        { text: '第 2 周 · Agent 与 Web 起步', collapsed: true, items: [
+          { text: '7 月 13 日', link: '/dailyReport/7.13' },
+          { text: '7 月 14 日', link: '/dailyReport/7.14' },
+          { text: '7 月 15 日', link: '/dailyReport/7.15' },
+          { text: '7 月 16 日', link: '/dailyReport/7.16' },
+          { text: '7 月 17 日', link: '/dailyReport/7.17' },
+        ]},
+        { text: '第 3 周 · 需求落地', collapsed: true, items: [
+          { text: '7 月 20 日', link: '/dailyReport/7.20' },
+          { text: '7 月 21 日', link: '/dailyReport/7.21' },
+          { text: '7 月 22 日', link: '/dailyReport/7.22' },
+          { text: '7 月 23 日', link: '/dailyReport/7.23' },
+          { text: '7 月 24 日', link: '/dailyReport/7.24' },
+        ]},
+        { text: '第 4 周 · 部署与运营', collapsed: true, items: [
+          { text: '7 月 27 日', link: '/dailyReport/7.27' },
+          { text: '7 月 28 日', link: '/dailyReport/7.28' },
+          { text: '7 月 29 日', link: '/dailyReport/7.29' },
+          { text: '7 月 30 日', link: '/dailyReport/7.30' },
+          { text: '7 月 31 日', link: '/dailyReport/7.31' },
+          { text: '8 月 1 日', link: '/dailyReport/8.1' },
+        ]},
+        { text: '第 5 周 · 设计与自动化', collapsed: true, items: [
+          { text: '8 月 3 日', link: '/dailyReport/8.3' },
+          { text: '8 月 4 日', link: '/dailyReport/8.4' },
+          { text: '8 月 5 日', link: '/dailyReport/8.5' },
+          { text: '8 月 6 日', link: '/dailyReport/8.6' },
+          { text: '8 月 7 日', link: '/dailyReport/8.7' },
+        ]},
+        { text: '第 6 周 · CRM 与项目规划', collapsed: true, items: [
+          { text: '8 月 10 日', link: '/dailyReport/8.10' },
+          { text: '8 月 11 日', link: '/dailyReport/8.11' },
+          { text: '8 月 12 日', link: '/dailyReport/8.12' },
+          { text: '8 月 13 日', link: '/dailyReport/8.13' },
+          { text: '8 月 14 日', link: '/dailyReport/8.14' },
+        ]},
+        { text: '第 7 周 · 项目启动与本地化', collapsed: true, items: [
+          { text: '8 月 16 日', link: '/dailyReport/8.16' },
+          { text: '8 月 17 日', link: '/dailyReport/8.17' },
+          { text: '8 月 18 日', link: '/dailyReport/8.18' },
+          { text: '8 月 19 日', link: '/dailyReport/8.19' },
+          { text: '8 月 20 日', link: '/dailyReport/8.20' },
+          { text: '8 月 21 日', link: '/dailyReport/8.21' },
+        ]},
+        { text: '第 8 周 · 智贸产品深化', collapsed: true, items: [
+          { text: '8 月 23 日', link: '/dailyReport/8.23' },
+          { text: '8 月 24 日', link: '/dailyReport/8.24' },
+          { text: '8 月 25 日', link: '/dailyReport/8.25' },
+          { text: '8 月 26 日', link: '/dailyReport/8.26' },
+          { text: '8 月 27 日', link: '/dailyReport/8.27' },
+          { text: '8 月 28 日', link: '/dailyReport/8.28' },
+        ]},
       ],
       '/titanfall-mds/': [
         { text: '泰坦陨落', items: [

@@ -22,6 +22,11 @@ features:
     details: 我的学习经历以及部署过的项目
     link: /resume-mds/
     linkText: 点进去
+  - icon: 🌱
+    title: 实习成长记录
+    details: 42篇工作记录，回顾我从初入职场到参与真实项目交付的成长过程
+    link: /dailyReport/
+    linkText: 查看成长轨迹
   - title: 泰坦陨落相关
     details: 泰坦陨落理解 （还没写）
     

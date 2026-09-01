@@ -80,3 +80,50 @@ html.dark {
 .novel .vp-doc p {
   text-indent: 2em !important;
 }
+
+.growth-log-grid {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  margin-top: 24px;
+}
+
+.growth-log-card {
+  padding: 20px;
+}
+
+.growth-log-card strong {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--vp-c-text-1);
+  font-size: 16px;
+}
+
+.growth-log-card > p {
+  margin: 0;
+  color: var(--vp-c-text-2);
+  line-height: 1.7;
+}
+
+.growth-log-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px !important;
+}
+
+.vp-doc .growth-log-links a {
+  display: inline-flex;
+  min-height: 32px;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 11px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  background: var(--vp-c-bg);
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.vp-doc .growth-log-links a:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}

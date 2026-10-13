@@ -149,6 +149,7 @@ export default defineConfig({
             { text: '第三十五章 ', link: '/NanGuo-mds/pages/p35' },
             { text: '第三十六章 ', link: '/NanGuo-mds/pages/p36' },
             { text: '第三十七章 ', link: '/NanGuo-mds/pages/p37' },
+            { text: '第三十八章 ', link: '/NanGuo-mds/pages/p38' },
           ]},
         ]}
       ],
